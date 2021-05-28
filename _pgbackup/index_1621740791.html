@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-<meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-<title>Artifact 04</title>
-    <script type="text/javascript" src="artifact4.js"></script><link href="Program%252520Files%252520(x86)/Pinegrow%252520Web%252520Editor/frameworks/bootstrap4/template/style.css" rel="stylesheet" type="text/css"></head>
-    <body>
-<form action="" id="myform"></form>
+<form action="" id="myform">
 <p>
 	<label for='FirstName'>First Name:</label>
 	<input type="text" id="FirstName" name="FirstName"/>
@@ -52,7 +41,6 @@
 </p>
     <form action="thankyou.html" onsubmit="return validateForm();">
 </form>
-<div id="errorMessages"></div>
 
 <script type="text/javascript">
  var frmvalidator = new Validator("myform");
@@ -74,8 +62,7 @@
  frmvalidator.addValidation("Country","dontselect=000");
 
 </script>
-</body>
-</html>
+
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->

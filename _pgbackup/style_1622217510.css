@@ -4,7 +4,7 @@
 
 body {
     background-color: #fff;
-    background: url("travelworthy-backdrop.jpg") no-repeat center center fixed;
+    background: url("https://lh3.googleusercontent.com/proxy/e3PDxangrD6qyzdnLhq4geOnrNIBK-hYw_dbchNSRi4wjEsXN82Ox24TIojJIlt2sqvSuUSXVyrfYm4h7kj5ZYp492pSVwdy8hPg2QYuRNoIbbD57a8dg1KO2PiwgYOpUjMZBe9GZIHc") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,7 +14,7 @@ body {
 }
 
 h1 {
-    background: #1e1b1e url("travelworthy-logo.gif") no-repeat;
+    background: #1e1b1e url("https://lh3.googleusercontent.com/proxy/wLpgAQhiYrbeTx3gNAM3C68QhupU-eLqLvX11bGJHZ8ZZuRFYmwSr18OUbO65E5313m_84lFyiT8Hgdg98Mj8vvEwirIPSKpe-DwfXvjMXG3PbvVkIzxsYBi264IExVExQ9bAyY") no-repeat;
     width: 230px;
     height: 180px;
     float: left;
